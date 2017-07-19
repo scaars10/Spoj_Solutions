@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1497626883 source:c:\users\acer\desktop\c code\spoj\amr11f\main.cpp
+	<stdio.h>
+	<malloc.h>
+
